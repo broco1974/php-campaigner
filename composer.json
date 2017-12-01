@@ -1,6 +1,6 @@
 {
-    "name": "broco1974/php-campaigner",
-    "description": "Campainer API Library for PHP",
+    "name": "broco1974/campaigner",
+    "description": "Campainer API Library",
     "type": "library",
     "require": {
         "ext-soap": "*",
