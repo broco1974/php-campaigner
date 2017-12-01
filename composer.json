@@ -1,0 +1,24 @@
+{
+    "name": "broco1974/php-campaigner",
+    "description": "Campainer API Library for PHP",
+    "type": "library",
+    "require": {
+        "ext-soap": "*",
+        "symfony/config": "~2.8|~3.0",
+        "php": "~5.5|~7.0"
+    },
+    "autoload": {
+        "psr-4": { "Broco\\Campaigner\\": "src/" }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ex-Situ Marketing",
+            "email": "dev@ex-situ.com"
+        },
+        {
+            "name": "Brothers & Company",
+            "email": "interactive@broco.com"
+        }
+    ]
+}
