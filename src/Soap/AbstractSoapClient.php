@@ -66,10 +66,6 @@ abstract class AbstractSoapClient
         ];
     }
 
-    public function getClient() {
-      return $this->client;
-    }
-
     /**
      * @param string $xml
      *
